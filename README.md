@@ -14,7 +14,6 @@ This is an academic project, part of Data Analytics and Visualization (DAV) cour
 - [Data Importing](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=mlei8_TYUwYu)
 - [Data Cleaning](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=Q4SpQwe2RppF)
 - [Data Visualization](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=Q4SpQwe2RppF) 
-<br>
     * Pie Chart
     * Line Chart
     * Bar graph
