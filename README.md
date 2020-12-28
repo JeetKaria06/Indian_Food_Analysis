@@ -12,8 +12,9 @@ This is an academic project, part of Data Analytics and Visualization (DAV) cour
 
 ## Topics Covered
 - [Data Importing](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=mlei8_TYUwYu)
-- Data Cleaning
-- Data Visualization <br>
+- [Data Cleaning](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=Q4SpQwe2RppF)
+- [Data Visualization](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=Q4SpQwe2RppF) 
+<br>
     * Pie Chart
     * Line Chart
     * Bar graph
@@ -23,10 +24,10 @@ This is an academic project, part of Data Analytics and Visualization (DAV) cour
     * WordCloud
     * 3D Scatter Plot
     * Heatmap
-- Data Analysis
-    * Dish similarity calculation using Ingredient vector
-    * Dimensionality Reduction 
-    * Clustering and classfying group among dishes
+- [Data Analysis](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=Q4SpQwe2RppF)
+    * [Dish similarity calculation using Ingredient vector](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=pMUtxMyqL1mF)
+    * [Dimensionality Reduction](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=kx3tiA42Ppmg) 
+    * [Clustering and classfying group among dishes](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=GsXaXIP6AWUE&line=62&uniqifier=1)
     
 ## Contributors
 
