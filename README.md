@@ -14,15 +14,15 @@ This is an academic project, part of Data Analytics and Visualization (DAV) cour
 - [Data Importing](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=mlei8_TYUwYu)
 - [Data Cleaning](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=Q4SpQwe2RppF)
 - [Data Visualization](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=Q4SpQwe2RppF) 
-    * Pie Chart
-    * Line Chart
-    * Bar graph
-    * Horizontal Bar Graph
-    * Scatter Plot
-    * Treemap
-    * WordCloud
-    * 3D Scatter Plot
-    * Heatmap
+    * [Pie Chart](https://github.com/JeetKaria06/Indian_Food_Analysis/blob/main/Screenshots/Pie-chart.png)
+    * [Line Chart](https://github.com/JeetKaria06/Indian_Food_Analysis/blob/main/Screenshots/Bar-line-graph.png)
+    * [Bar graph](https://github.com/JeetKaria06/Indian_Food_Analysis/blob/main/Screenshots/Bar-line-graph.png)
+    * [Horizontal Bar Graph](https://github.com/JeetKaria06/Indian_Food_Analysis/blob/main/Screenshots/Horizontal-bar-graph.png)
+    * [Scatter Plot](https://github.com/JeetKaria06/Indian_Food_Analysis/blob/main/Screenshots/Scatter-plot.png)
+    * [Treemap](https://github.com/JeetKaria06/Indian_Food_Analysis/blob/main/Screenshots/Treemap.png)
+    * [WordCloud](https://github.com/JeetKaria06/Indian_Food_Analysis/blob/main/Screenshots/wordcloud.png)
+    * [3D Scatter Plot](https://github.com/JeetKaria06/Indian_Food_Analysis/blob/main/Screenshots/3d-scatter-plot.png)
+    * [Heatmap](https://github.com/JeetKaria06/Indian_Food_Analysis/blob/main/Screenshots/Treemap.png)
 - [Data Analysis](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=Q4SpQwe2RppF)
     * [Dish similarity calculation using Ingredient vector](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=pMUtxMyqL1mF)
     * [Dimensionality Reduction](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=kx3tiA42Ppmg) 
