@@ -22,9 +22,9 @@ This is an academic project, part of Data Analytics and Visualization (DAV) cour
     * [Treemap](https://github.com/JeetKaria06/Indian_Food_Analysis/blob/main/Screenshots/Treemap.png)
     * [WordCloud](https://github.com/JeetKaria06/Indian_Food_Analysis/blob/main/Screenshots/wordcloud.png)
     * [3D Scatter Plot](https://github.com/JeetKaria06/Indian_Food_Analysis/blob/main/Screenshots/3d-scatter-plot.png)
-    * [Heatmap](https://github.com/JeetKaria06/Indian_Food_Analysis/blob/main/Screenshots/Treemap.png)
+    * [Heatmap](https://github.com/JeetKaria06/Indian_Food_Analysis/blob/main/Screenshots/Heatmap.png)
 - [Data Analysis](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=Q4SpQwe2RppF)
-    * [Dish similarity calculation using Ingredient vector](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=pMUtxMyqL1mF)
+    * [Dish similarity calculation using Ingredient vector](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=YFNKPoXANEK3)
     * [Dimensionality Reduction](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=kx3tiA42Ppmg) 
     * [Clustering and classfying group among dishes](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=GsXaXIP6AWUE&line=62&uniqifier=1)
     
