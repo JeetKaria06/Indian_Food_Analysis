@@ -11,7 +11,7 @@ This is an academic project, part of Data Analytics and Visualization (DAV) cour
 - [Kaggle](https://www.kaggle.com/nehaprabhavalkar/indian-food-101/tasks?taskId=2180)
 
 ## Topics Covered
-- Data Importing
+- [Data Importing](https://colab.research.google.com/github/JeetKaria06/Indian_Food_Analysis/blob/main/Indian_Food_Analysis.ipynb#scrollTo=mlei8_TYUwYu)
 - Data Cleaning
 - Data Visualization <br>
     * Pie Chart
