@@ -3,9 +3,20 @@
 This is an academic project, part of Data Analytics and Visualization (DAV) course at SEAS (School of Engineering and Applied Sciences), Ahmedabad University.
 
 ## Table of Content
+- [Tools and Technologies](#tools-and-technologies)
 - [Problem Source](#problem-source)
 - [Topics Covered](#topics-covered)
 - [Contributors](#contributors)
+
+## Tools and Technologies
+- Python
+- Plotly 
+- Pandas
+- Matplotlib
+- Numpy
+- Scikit-learn
+- Google-Colab
+- Uniform manifold approximation and projection (UMAP)
 
 ## Problem Source
 - [Kaggle](https://www.kaggle.com/nehaprabhavalkar/indian-food-101/tasks?taskId=2180)
